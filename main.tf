@@ -1,5 +1,5 @@
 provider "aws" {
-   region = "us-east-1"
+    region = "us-east-1"
 }
 variable "subnet_cidr_block"  {}
 variable "avil_zone" {} #bas keda whigib el value bta3ha mn env.var eli ana m3rfaha fil terminal
